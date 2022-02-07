@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="CustomListener"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="/home/admin123/IdeaProjects/Saruwata.site/src/CustomListener.java">
+      <classes>
+
+       <!-- <class name="Register"/>-->
+         <!--<class name="Login"/>-->
+        <!--  <class name="FbLogin"/>-->
+        <!--<class name="AllAds"/>-->
+          <class name="Home"/>
+
+
+      </classes>
+
+
+    </test>
+</suite>
