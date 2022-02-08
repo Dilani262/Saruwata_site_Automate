@@ -6,7 +6,7 @@ This is test script of UAT saruwata.site for,
   * Register page
   * Home page
   * All ads page
-  * Membership process
+  * Membership process - Pending..
   
   
   All the test scripts are passed
