@@ -125,12 +125,13 @@ public class Home {
                         }
                          driver.findElement(By.xpath("/html/body/div[5]/div/div[2]/div")).isDisplayed();
                         {
-                            System.out.println("Your membership request is Send");
+                            System.out.println("Your membership request is Sent");
                         }
                     }
                     else {
                         Assert.fail("Membership Req form is not displayed");
                     }
+                    //membership process need to add
                 }
             }
         }
